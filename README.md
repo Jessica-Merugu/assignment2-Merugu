@@ -25,5 +25,16 @@ It is located in Telangana,India **Hussain Sagar** and Birla Mandir are around i
     - Beverages
 
     **[AboutMe Link](AboutMe.md)**
-    
+
+    ***
+    ### Sports
+    The table consists of details of 4 sports which I would like to recommed. It includes Sport name, location of sport and amount to be paid for the equipment
+
+    | Name | Location | Amount |
+    | -----| ---------| -------|
+    |Volleyball| London| $10|
+    |Basketball| USA| $20|
+    |Golf| Europe| $30|
+    |Cricket| India| $40|
+
 
