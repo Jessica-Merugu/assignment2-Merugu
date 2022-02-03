@@ -37,4 +37,16 @@ It is located in Telangana,India **Hussain Sagar** and Birla Mandir are around i
     |Golf| Europe| $30|
     |Cricket| India| $40|
 
+    ***
+    ### Pithy Quotes
+
+    >"The first draft is just you telling yourself the story."     _Terry Pratchett_
+
+    >"You can always edit a bad page. You can’t edit a blank page"   _Jack London_
+
+             
+
+
+
+
 
